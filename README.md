@@ -8,35 +8,35 @@
 
 ## 🔗 Connect with Me
 
-<div style="text-align:center;">
+<div align="center">
   <table style="display:inline-block; border-collapse:collapse;">
     <tr>
-      <td style="text-align:center; padding:12px;">
+      <td align="center">
         <a href="mailto:swarnadeep.social@gmail.com">
           <img src="https://skillicons.dev/icons?i=gmail" width="55" height="55" alt="Gmail" />
         </a>
       </td>
-      <td style="text-align:center; padding:12px;">
+      <td align="center">
         <a href="https://linkedin.com/in/swarnadeeppaul">
           <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
         </a>
       </td>
-      <td style="text-align:center; padding:12px;">
+      <td align="center">
         <a href="https://t.me/swarnadeeppaul">
           <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="48" height="48" alt="Telegram" />
         </a>
       </td>
-      <td style="text-align:center; padding:12px;">
+      <td align="center" >
         <a href="https://www.instagram.com/_swarnadeep_paul_">
           <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48" height="48" alt="Instagram" />
         </a>
       </td>
-      <td style="text-align:center; padding:12px;">
+      <td align="center" >
         <a href="https://www.github.com/codewithchill">
           <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="Github" />
         </a>
       </td>
-      <td style="text-align:center; padding:12px;">
+      <td align="center" >
         <a href="https://gitlab.com/swarnadeeppaul">
           <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" width="48" height="48" alt="Gitlab" />
         </a>
