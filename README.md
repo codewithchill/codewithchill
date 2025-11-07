@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Algorithms**
 
----
-
 ## **🔗 Connect with Me**
 
 <div align="center">
