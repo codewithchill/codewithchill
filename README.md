@@ -1,7 +1,6 @@
 <h1 align="center"><b>Hi 👋, I'm Swarnadeep Paul</b></h1>
 <h3 align="center">Passionate about Technology</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithchill&color=blueviolet&label=PROFILE+VIEWS:&style=flat&base=0&abbreviated=true" alt="codewithchill" /> </p> -->
 - 🔭 I’m currently working on **DSA & Development**
 
 - 🌱 I’m currently learning **Algorithms**
@@ -34,7 +33,18 @@
 ## **🖥️ Tools & Platforms / Languages**
 
 <div align="center">
-  <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,github,git,postman,linux,bash,c,html,css&theme=dark" width="900" height="70" /></a></p>
+  <p align="center">
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="70" height="70" /></a>
+  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="70" height="70" /></a>
+  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="70" height="70" /></a>
+  <a href="https://postman.com"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="70" height="70" /></a>
+  <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="70" height="70" /></a>
+  <a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="70" height="70" /></a>
+  <a href="https://www.learn-c.org/"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="70" height="70" /></a>
+  <a href="https://www.w3schools.com/html/default.asp"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="70" height="70" /></a>
+  <a href="https://w3schools.com/css/default.asp"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="70" height="70" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="assets/makefile.svg" width="70" height="70" /></a>
+  </p>
 </div>
 
 ## **🏅 Badges**
@@ -42,7 +52,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="100"> <img src="https://cc.sj-cdn.net/instructor/3d8458f2k85sh-postman/courses/1a8b8cdxvqjxq/promo-image.1677069333.png" width="48" height="48" alt="C" /> <br>Postman API Student Expert</td>
+      <td align="center" width="100"> <img src="assets/postman-api.png" width="80" height="80" alt="Postman" /> <br>Postman API Student Expert</td>
     </tr>
   </table>
 </div>
