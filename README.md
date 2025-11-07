@@ -11,22 +11,22 @@
 <div align="center">
   <p>
    <a href="mailto:swarnadeep.social@gmail.com">
-     <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
+     <img src="https://skillicons.dev/icons?i=gmail" width="70" height="70" alt="Gmail" />
    </a>
    <a href="https://linkedin.com/in/swarnadeeppaul">
-     <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
+     <img src="https://skillicons.dev/icons?i=linkedin" width="70" height="70" alt="LinkedIn" />
    </a>
    <a href="https://t.me/swarnadeeppaul">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="60" height="60" alt="Telegram" />
+     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="70" height="70" alt="Telegram" />
    </a>
    <a href="https://www.instagram.com/_swarnadeep_paul_">
-     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="60" height="60" alt="Instagram" />
+     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="70" height="70" alt="Instagram" />
    </a>
    <a href="https://www.github.com/codewithchill">
-     <img src="https://skillicons.dev/icons?i=github&theme=dark" width="60" height="60" alt="Github" />
+     <img src="https://skillicons.dev/icons?i=github&theme=dark" width="70" height="70" alt="Github" />
    </a>
    <a href="https://gitlab.com/swarnadeeppaul">
-     <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" width="60" height="60" alt="Gitlab" />
+     <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" width="70" height="70" alt="Gitlab" />
    </a>
   </p>
 </div>
@@ -34,7 +34,7 @@
 ## **🖥️ Tools & Platforms / Languages**
 
 <div align="center">
-  <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,github,git,postman,linux,bash,c,html,css&theme=dark" width="900" height="60" /></a></p>
+  <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,github,git,postman,linux,bash,c,html,css&theme=dark" width="900" height="70" /></a></p>
 </div>
 
 ## **🏅 Badges**
@@ -42,7 +42,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="100"> <img src="https://cc.sj-cdn.net/instructor/3d8458f2k85sh-postman/courses/1a8b8cdxvqjxq/promo-image.1676069333.png" width="48" height="48" alt="C" /> <br>Postman API Student Expert</td>
+      <td align="center" width="100"> <img src="https://cc.sj-cdn.net/instructor/3d8458f2k85sh-postman/courses/1a8b8cdxvqjxq/promo-image.1677069333.png" width="48" height="48" alt="C" /> <br>Postman API Student Expert</td>
     </tr>
   </table>
 </div>
