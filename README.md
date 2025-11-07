@@ -82,7 +82,17 @@
 
 ## 🌐 Languages
 
-<div style="display: flex;flex-wrap: wrap;justify-content: center;gap: 20px;margin: 0 auto;">
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /> <br>C </td>
+      <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /> <br>HTML </td>
+      <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /> <br>CSS </td>
+    </tr>
+  </table>
+</div>
+
+<!-- <div style="display: flex;flex-wrap: wrap;justify-content: center;gap: 20px;margin: 0 auto;">
   <div style="text-align: center; width: 100px;">
     <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="VS Code">
     <br>HTML
@@ -93,9 +103,9 @@
   </div>
   <div style="text-align: center; width: 100px;">
     <img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" height="48" alt="Git">
-    <br>C
+    <br>
   </div>
-</div>
+</div> -->
 
 ## 🏅 Badges
 
