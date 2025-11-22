@@ -43,6 +43,7 @@
   <a href="https://www.learn-c.org/"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="70" height="70" /></a>
   <a href="https://www.w3schools.com/html/default.asp"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="70" height="70" /></a>
   <a href="https://w3schools.com/css/default.asp"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="70" height="70" /></a>
+  <a href="https://w3schools.com/js/default.asp"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="70" height="70" /></a>
   <a href="https://www.gnu.org/software/bash/"><img src="assets/makefile.svg" width="70" height="70" /></a>
   </p>
 </div>
