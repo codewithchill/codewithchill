@@ -60,8 +60,8 @@
 
 ## **📈 Some Stats**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithchill&size_weight=0.5&count_weight=0.5&show_icons=true&theme=nightowl&locale=en&layout=donut&exclude_repo=" alt="codewithchill" /></p>
+<p><img align="left" src="https://stats.swarnadeep.tech/api/top-langs?username=codewithchill&size_weight=0.5&count_weight=0.5&show_icons=true&theme=nightowl&locale=en&layout=donut&exclude_repo=" alt="codewithchill" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/?username=codewithchill&size_weight=0.5&count_weight=0.5&show_icons=true&theme=nightowl&locale=en&layout=donut" alt="codewithchill" /></p>
+<p><img align="right" src="https://stats.swarnadeep.tech/api/?username=codewithchill&size_weight=0.5&count_weight=0.5&show_icons=true&theme=nightowl&locale=en&layout=donut" alt="codewithchill" /></p>
 
 ---
