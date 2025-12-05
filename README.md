@@ -46,6 +46,7 @@
   <a href="https://w3schools.com/js/default.asp"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="70" height="70" /></a>
   <a href="https://nginx.org"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="70" height="70" /></a>
   <a href="https://www.gnu.org/software/make/"><img src="assets/makefile.svg" width="70" height="70" /></a>
+  <a href="https://wsl.dev/"><img src="assets/wsl.svg" width="70" height="70" /></a>
   </p>
 </div>
 
