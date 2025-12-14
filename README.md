@@ -34,16 +34,17 @@
 
 <div align="center">
   <p align="center">
+  <a href="https://www.w3schools.com/html/default.asp"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="70" height="70" /></a>
+  <a href="https://w3schools.com/css/default.asp"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="70" height="70" /></a>
+  <a href="https://w3schools.com/js/default.asp"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="70" height="70" /></a>
+  <a href="https://www.learn-c.org/"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="70" height="70" /></a>
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="70" height="70" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="70" height="70" /></a>
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="70" height="70" /></a>
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="70" height="70" /></a>
   <a href="https://postman.com"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="70" height="70" /></a>
   <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="70" height="70" /></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="70" height="70" /></a>
-  <a href="https://www.learn-c.org/"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="70" height="70" /></a>
-  <a href="https://www.w3schools.com/html/default.asp"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="70" height="70" /></a>
-  <a href="https://w3schools.com/css/default.asp"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="70" height="70" /></a>
-  <a href="https://w3schools.com/js/default.asp"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="70" height="70" /></a>
   <a href="https://nginx.org"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="70" height="70" /></a>
   <a href="https://www.gnu.org/software/make/"><img src="assets/makefile.svg" width="70" height="70" /></a>
   <a href="https://wsl.dev/"><img src="assets/wsl.svg" width="70" height="70" /></a>
