@@ -39,6 +39,7 @@
   <a href="https://w3schools.com/js/default.asp"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="70" height="70" /></a>
   <a href="https://www.learn-c.org/"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="70" height="70" /></a>
   <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="70" height="70" /></a>
+  <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust&theme=dark" width="70" height="70" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="70" height="70" /></a>
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="70" height="70" /></a>
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="70" height="70" /></a>
