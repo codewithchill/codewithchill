@@ -38,6 +38,7 @@
   <a href="https://w3schools.com/css/default.asp"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="70" height="70" /></a>
   <a href="https://w3schools.com/js/default.asp"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="70" height="70" /></a>
   <a href="https://www.learn-c.org/"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="70" height="70" /></a>
+  <a href="https://www.r-project.org/"><img src="https://skillicons.dev/icons?i=r&theme=dark" width="70" height="70" /></a>
   <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="70" height="70" /></a>
   <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust&theme=dark" width="70" height="70" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="70" height="70" /></a>
@@ -46,18 +47,19 @@
   <a href="https://postman.com"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="70" height="70" /></a>
   <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="70" height="70" /></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="70" height="70" /></a>
-  <a href="https://nginx.org"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="70" height="70" /></a>
+  <!-- <a href="https://nginx.org"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="70" height="70" /></a> -->
   <a href="https://www.gnu.org/software/make/"><img src="assets/makefile.svg" width="70" height="70" /></a>
   <a href="https://wsl.dev/"><img src="assets/wsl.svg" width="70" height="70" /></a>
   </p>
 </div>
 
-## **🏅 Badges**
+## **🏅 Badges and Certificates**
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="100"> <img src="assets/postman-api.png" width="80" height="80" alt="Postman" /> <br>Postman API Student Expert</td>
+      <td align="center" width="100"> <img src="assets/r.webp" width="80" height="80" alt="R_Language" /> <br>CS50 R Certificate</td>
     </tr>
   </table>
 </div>
