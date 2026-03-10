@@ -1,9 +1,7 @@
-<h1 align="center"><b>Hi 👋, I'm Swarnadeep Paul</b></h1>
-<h3 align="center">Passionate about Technology</h3>
-
-- 🔭 I’m currently working on **DSA & Development**
-
-- 🌱 I’m currently learning **Algorithms**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!%F0%9F%91%8B&fontSize=50&fontAlignY=30&animation=twinkling" alt="Header"/>
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Roboto+Slab&size=26&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Systems+Developer;I+love+low-level+programming;Passionate+about+Technology)](https://git.io/typing-svg)-->
+</div>
 
 ## **🔗 Connect with Me**
 
@@ -71,3 +69,15 @@
 <p><img align="right" src="https://stats.swarnadeep.tech/api/?username=codewithchill&size_weight=0.5&count_weight=0.5&show_icons=true&theme=nightowl&locale=en&layout=donut" alt="codewithchill" /></p>
 
 ---
+
+<!--
+```mermaid
+pie
+    title Weekly Activity
+    "Rust" : 35
+    "Python" : 25
+    "PHP" : 20
+    "C++" : 15
+    "Other" : 5
+```
+-->
