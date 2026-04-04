@@ -62,6 +62,16 @@
   </table>
 </div>
 
+<br>
+
+## **Quotes by Me**
+
+<div align=center">
+  <p align="center">
+  <img src="assets/code_20260404_134628_via_10015_io.png" width="620" height="461" alt="Quote" />
+      </p>
+</div>
+
 ## **📈 Some Stats**
 
 <p><img align="left" src="https://stats.swarnadeep.tech/api/top-langs?username=codewithchill&size_weight=0.5&count_weight=0.5&show_icons=true&theme=nightowl&locale=en&layout=donut&exclude_repo=" alt="codewithchill" /></p>
