@@ -3,52 +3,23 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Roboto+Slab&size=26&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Systems+Developer;I+love+low-level+programming;Passionate+about+Technology)](https://git.io/typing-svg)-->
 </div>
 
-## **🔗 Connect with Me**
+## 🔗 Connect with Me
 
 <div align="center">
-  <p>
-   <a href="mailto:swarnadeep.social@gmail.com">
-     <img src="https://skillicons.dev/icons?i=gmail" width="70" height="70" alt="Gmail" />
-   </a>
-   <a href="https://linkedin.com/in/swarnadeeppaul">
-     <img src="https://skillicons.dev/icons?i=linkedin" width="70" height="70" alt="LinkedIn" />
-   </a>
-   <a href="https://t.me/swarnadeeppaul">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="70" height="70" alt="Telegram" />
-   </a>
-   <a href="https://www.instagram.com/_swarnadeep_paul_">
-     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="70" height="70" alt="Instagram" />
-   </a>
-   <a href="https://www.github.com/codewithchill">
-     <img src="https://skillicons.dev/icons?i=github&theme=dark" width="70" height="70" alt="Github" />
-   </a>
-   <a href="https://gitlab.com/swarnadeeppaul">
-     <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" width="70" height="70" alt="Gitlab" />
-   </a>
-  </p>
+
+| | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| [<img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="70"/>](mailto:swarnadeep.social@gmail.com) | [<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="70"/>](https://linkedin.com/in/swarnadeeppaul) | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="70"/>](https://t.me/swarnadeeppaul) | [<img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="70"/>](https://www.instagram.com/_swarnadeep_paul_) | [<img src="https://skillicons.dev/icons?i=github&theme=dark" width="70"/>](https://github.com/codewithchill) | [<img src="https://skillicons.dev/icons?i=gitlab&theme=dark" width="70"/>](https://gitlab.com/swarnadeeppaul) |
+
 </div>
 
+---
 ## **🖥️ Tools & Platforms / Languages**
 
 <div align="center">
-  <p align="center">
-  <a href="https://www.w3schools.com/html/default.asp"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="70" height="70" /></a>
-  <a href="https://w3schools.com/css/default.asp"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="70" height="70" /></a>
-  <a href="https://w3schools.com/js/default.asp"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="70" height="70" /></a>
-  <a href="https://www.learn-c.org/"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="70" height="70" /></a>
-  <a href="https://www.r-project.org/"><img src="https://skillicons.dev/icons?i=r&theme=dark" width="70" height="70" /></a>
-  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="70" height="70" /></a>
-  <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust&theme=dark" width="70" height="70" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="70" height="70" /></a>
-  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="70" height="70" /></a>
-  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="70" height="70" /></a>
-  <a href="https://postman.com"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="70" height="70" /></a>
-  <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="70" height="70" /></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="70" height="70" /></a>
-  <!-- <a href="https://nginx.org"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="70" height="70" /></a> -->
-  <a href="https://www.gnu.org/software/make/"><img src="assets/makefile.svg" width="70" height="70" /></a>
-  <a href="https://wsl.dev/"><img src="assets/wsl.svg" width="70" height="70" /></a>
-  </p>
+  
+  ![My Skills](https://skillicons.dev/icons?i=html,css,js,c,r,java,rust,vscode,github,git,postman,linux,bash&theme=dark)
+  
 </div>
 
 ## **🏅 Badges and Certificates**
